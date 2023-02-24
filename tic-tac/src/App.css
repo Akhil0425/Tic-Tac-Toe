@@ -3,16 +3,17 @@
   text-align: center;
 }
 button {
-  font-weight: bold;
+  /* font-weight: bold; */
+  
   font-size: 20px;
   width: 25px;
   height: 25px;
   border: 1px outset black;
 }
-.but {
+/* .but {
   font-weight: 5px;
   width: 180px;
-}
-.list {
+} */
+/* .list {
   margin-left: 35%;
-}
+} */
